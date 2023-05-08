@@ -9,7 +9,7 @@ The project be a user interface that mimics a GitHub user profile using:
 - Relay
 - CSS/SCSS
 
-The presentation will be 60 minutes: 
+The presentation will be 45 minutes: 
 - in the first half, you will present your project and approach
 - in the second half, the Simulmedia team will ask questions
 
